@@ -1,4 +1,12 @@
-NAMA	: MUHAMMAD ILHAM
-NIM	: 201011401544
+NAMA	: MUHAMMAD ADAM FEBRIAN
+NIM	: 201011401284
 KELAS	: 07TPLE005
 MATKUL	: TESTING DAN QA PERANGKAT LUNAK
+
+Referensi :
+https://www.dicoding.com/blog/white-box-testing/
+https://www.dicoding.com/blog/apa-itu-ci-cd/
+https://www.dicoding.com/blog/white-box-testing/
+https://glints.com/id/lowongan/unit-testing-adalah/
+https://www.binaracademy.com/blog/ci-cd-pipeline-dalam-devops
+https://www.dicoding.com/blog/apa-itu-ci-cd/
